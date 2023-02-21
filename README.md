@@ -1,8 +1,6 @@
-= Random notes regarding SGDK or video games development in general
+# Random notes regarding SGDK or video games development in general
 
-see documentation/readSprites.png
-
-== How to see which sprites are displayed
+## How to see which sprites are displayed
 
 In an emulator we can open VDP sprites and see which one are displayed:
 
